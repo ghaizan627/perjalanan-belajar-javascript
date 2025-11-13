@@ -11,3 +11,4 @@ const namaNamaHari = [
   "Sabtu",
   "Minggu",
 ];
+console.table(namaNamaHari);
