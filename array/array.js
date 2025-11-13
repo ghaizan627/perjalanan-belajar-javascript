@@ -2,4 +2,12 @@ var hari = "Senin";
 var hari = "Selasa";
 var hari = "Rabu";
 
-const namaNamaHari = ["Senin", "Selasa", "Rabu"];
+const namaNamaHari = [
+  "Senin",
+  "Selasa",
+  "Rabu",
+  "Kamis",
+  "Jumat",
+  "Sabtu",
+  "Minggu",
+];
