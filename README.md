@@ -1,0 +1,1 @@
+perjalanan belajar Java Script
